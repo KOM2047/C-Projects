@@ -1,0 +1,14 @@
+C:\Users\keepk\source\repos\ListInputApp\bin\Debug\net8.0\ListInputApp.exe
+C:\Users\keepk\source\repos\ListInputApp\bin\Debug\net8.0\ListInputApp.deps.json
+C:\Users\keepk\source\repos\ListInputApp\bin\Debug\net8.0\ListInputApp.runtimeconfig.json
+C:\Users\keepk\source\repos\ListInputApp\bin\Debug\net8.0\ListInputApp.dll
+C:\Users\keepk\source\repos\ListInputApp\bin\Debug\net8.0\ListInputApp.pdb
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ListInputApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ListInputApp.AssemblyInfoInputs.cache
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ListInputApp.AssemblyInfo.cs
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ListInputApp.csproj.CoreCompileInputs.cache
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ListInputApp.dll
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\refint\ListInputApp.dll
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ListInputApp.pdb
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ListInputApp.genruntimeconfig.cache
+C:\Users\keepk\source\repos\ListInputApp\obj\Debug\net8.0\ref\ListInputApp.dll
